@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamShandilya01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SakshamShandilya01/Leet-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SakshamShandilya01/Leet-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
