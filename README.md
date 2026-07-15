@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamShandilya01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/SakshamShandilya01/Leet-Code/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SakshamShandilya01/Leet-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SakshamShandilya01/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
